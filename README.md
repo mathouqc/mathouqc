@@ -58,6 +58,7 @@
 - **Python** (avancé)
 - **JavaScript / TypeScript** (avancé)
 - **HTML / CSS** (avancé)
+- **Java** (intermédiaire)
 - **C++** (intermédiaire)
 - **C** (débutant)
 
